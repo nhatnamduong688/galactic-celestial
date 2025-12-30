@@ -1,0 +1,22 @@
+:root {
+    /* Colors */
+    --color-primary: #FEE2E2;
+    /* Pastel Pink */
+    --color-secondary: #FAFAF9;
+    /* Soft White */
+    --color-text: #44403C;
+    /* Warm Gray */
+    --color-accent: #E5E7EB;
+    /* Light Gray for borders/subtle elements */
+
+    /* Typography */
+    --font-heading: 'Playfair Display', serif;
+    --font-body: 'Outfit', sans-serif;
+
+    /* Spacing */
+    --spacing-xs: 0.5rem;
+    --spacing-sm: 1rem;
+    --spacing-md: 2rem;
+    --spacing-lg: 4rem;
+    --spacing-xl: 8rem;
+}
